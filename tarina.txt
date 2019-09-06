@@ -17,3 +17,5 @@ Author:
 Date:
 
     Lisättiin lapio_vko2.txt -tiedosto
+
+Tuo ylläoleva on kopioitu TKT:n lapionkäyttökurssilta
