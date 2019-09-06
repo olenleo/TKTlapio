@@ -1,0 +1,19 @@
+Olipahan kerranh
+pitkä pätkä tekstiä
+Huoh
+miksi en saa pastettua hiiren oikealla painikkeella enää
+mieleni minun tekeepi lauluja laulelmahan
+Usein haaroja käytetään niin, että päähaarasta erotetaan uuden toiminnallisuuden testaamiseksi toinen haara,
+jossa koodat aan lisäominaisuuksia. Haarat eivät vaikuta toistensa tiloihin, eli uudella koodilla voidaan leikkiä 
+huolimatta päähaarasta. Kun ollaan todettu uusi koodi toimivaksi, voidaan se lisätä 
+päähaaraan, ja poistaa uusi haara. 
+Tässä osassa ei käsitellä haaroja sen enempää: riittää ymmärtää, 
+että käytämme nyt vain master-, eli päähaaraa.
+
+Commitoidut muutokset eivät siis enää näy statuksessa. Ne eivät kuitenkaan ole hävinneet: ne on siirretty committiin. Komennolla git log pystyt tarkastelemaan luotuja committeja:
+
+commit 51bf544c786a671c28f70713b6cb33d87cc38
+Author:
+Date:
+
+    Lisättiin lapio_vko2.txt -tiedosto
